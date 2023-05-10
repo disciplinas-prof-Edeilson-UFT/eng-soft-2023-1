@@ -32,3 +32,23 @@ Sistema de gestão financeira pessoal que permita aos usuários gerenciar suas f
 * [Gabriel Tavares](https://github.com/GabrielUFT)
 
 ### Link do repositório do grupo: [Turma-2023-1-Engenharia-de-Software](https://github.com/Turma-2023-1-Engenharia-de-Software/eng-soft-2023-1)
+
+## Live Streaming (Grupo 2)
+
+### Escopo:
+Plataforma de streaming de vídeo focada em jogos e entretenimento ao vivo. O sistema permite que os usuários transmitam ao vivo suas jogadas de videogame, performances musicais, bate-papos e outras formas de conteúdo ao vivo. Os usuários podem assistir às transmissões ao vivo de outros usuários, segui-los, fazer comentários e interagir com os criadores de conteúdo em tempo real.
+
+### Equipe:
+* [João Pedro Pereira Santos](https://github.com/wchar-t)
+* [Emanuel Montenegro](https://github.com/emanuelcatao)
+* [Lucas José](https://github.com/yamatosz)
+* [Afonso Dglan](https://github.com/AfonsoDglan)
+* [Antonio André Barcelos Chagas](https://github.com/andrebarceloschagas)
+* [Anderson Freitas](https://github.com/freitasanderson)
+* [Helorrayne Cristine](https://github.com/HeloCris)
+* [Luiz Henrique](https://github.com/lizenriq)
+* [Luis Felipe Nunes](https://github.com/Luis-Felipe-N)
+* [Victor Campelo](https://github.com/Victorcampelo14)
+* [Ruan Carlos](https://github.com/okkvlt)
+
+### Link do relatório do grupo: [Relatório](https://github.com/wchar-t/relatorio-es-2023-01)
